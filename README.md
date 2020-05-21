@@ -1,10 +1,10 @@
 # Employee-Management(Swing Java)
-Simple employee management system(Insert, Delete, Update)
+Simple employee management system
 
 # Prerequisite
-Before you continue, ensure you meet the following requirements(like me):
-        1. IDE: Apache NetBeans IDE 11.3
-        2. JDK: JDK 13
+Before you continue, ensure you meet the following requirements(like me):  
+        1. IDE: Apache NetBeans IDE 11.3  
+        2. JDK: JDK 13  
         3. MySql: Port 3306(remember open it)
         
 # Features
