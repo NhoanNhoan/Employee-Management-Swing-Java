@@ -15,13 +15,13 @@ Before you continue, ensure you meet the following requirements(like me):
         ![Insert 4](https://user-images.githubusercontent.com/48643699/82575564-da77f500-9bb2-11ea-83bd-d7904b7a1650.png)
         ![Insert 5](https://user-images.githubusercontent.com/48643699/82575648-f24f7900-9bb2-11ea-8759-59d410ebb2aa.png)
         
+        
 * DELETE:
-
         ![Delete 1](https://user-images.githubusercontent.com/48643699/82575716-06937600-9bb3-11ea-96c3-bf4f5ba62840.png)
         ![Delete 2](https://user-images.githubusercontent.com/48643699/82575769-18751900-9bb3-11ea-8fe0-5f7c057a188f.png)
         
+        
 * UPDATE:
-
         ![UPDATE 1](https://user-images.githubusercontent.com/48643699/82576416-f92abb80-9bb3-11ea-9292-7d73e5238522.png)
         ![UPDATE 2](https://user-images.githubusercontent.com/48643699/82576024-730e7500-9bb3-11ea-80d4-24bc65a29896.png)
         ![UPDATE 3](https://user-images.githubusercontent.com/48643699/82576147-a6510400-9bb3-11ea-8556-122dddbbe3b0.png)
